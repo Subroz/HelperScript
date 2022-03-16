@@ -24,7 +24,7 @@
             "required": true},
         "NO_CACHE": {
             "description": "put true",
-            "required": false},
+            "required": false
     },
     "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
